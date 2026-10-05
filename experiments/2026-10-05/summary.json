@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-05",
+  "project_version": "0.3.1",
+  "comparison_rounds_per_profile": 25,
+  "runs_per_profile": 1,
+  "model_id": null,
+  "sampling_parameters": null,
+  "model_metadata_note": "The supplied console logs do not include model ID or sampling parameters.",
+  "initial_state": {
+    "mature_wheat": 48,
+    "villagers": 4,
+    "private_wheat_per_villager": 1
+  },
+  "initial_state_source": "Scenario setup in the project; not an additional completed log round.",
+  "normal_budget_pause": {
+    "attempted_round": 3,
+    "requests": 0,
+    "committed": false,
+    "resumed_at_round": 3
+  },
+  "profiles": {
+    "normal": {
+      "completed_rounds": 50,
+      "all_sources_ai": true,
+      "first_depletion_round": null,
+      "first_shortage_round": null,
+      "round_25": {
+        "profile": "normal",
+        "round": 25,
+        "harvest": 6,
+        "regrowth": 6,
+        "mature_wheat": 48,
+        "shortage_people": 0,
+        "source": "AI",
+        "requests": 1,
+        "latency_ms": 3042
+      },
+      "last_round": {
+        "profile": "normal",
+        "round": 50,
+        "harvest": 5,
+        "regrowth": 5,
+        "mature_wheat": 48,
+        "shortage_people": 0,
+        "source": "AI",
+        "requests": 1,
+        "latency_ms": 4906
+      }
+    },
+    "greedy": {
+      "completed_rounds": 25,
+      "all_sources_ai": true,
+      "first_depletion_round": 8,
+      "first_shortage_round": 21,
+      "round_25": {
+        "profile": "greedy",
+        "round": 25,
+        "harvest": 0,
+        "regrowth": 0,
+        "mature_wheat": 0,
+        "shortage_people": 4,
+        "source": "AI",
+        "requests": 1,
+        "latency_ms": 6313
+      },
+      "last_round": {
+        "profile": "greedy",
+        "round": 25,
+        "harvest": 0,
+        "regrowth": 0,
+        "mature_wheat": 0,
+        "shortage_people": 4,
+        "source": "AI",
+        "requests": 1,
+        "latency_ms": 6313
+      }
+    }
+  }
+}

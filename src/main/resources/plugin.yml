@@ -1,0 +1,15 @@
+name: VillageCommons
+version: 0.3.1
+main: io.github.xhy214.village.VillageCommonsPlugin
+api-version: '1.21.11'
+description: Four AI villagers managing a shared 7x7 wheat field
+authors: [xhy214]
+commands:
+  village:
+    description: 共享麦田演示
+    aliases: [vc, ve]
+    usage: /village
+permissions:
+  villagecommons.manage:
+    description: 推进回合与授权规则
+    default: op

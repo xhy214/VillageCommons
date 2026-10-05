@@ -1,0 +1,104 @@
+[16:59:43 INFO]: [VillageCommons] 第1回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[16:59:43 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=4746
+[17:00:02 INFO]: [VillageCommons] 第2回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:00:02 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3722
+[17:00:12 INFO]: [VillageCommons] 本回合未结算：本次启动的 API 请求额度已用完，请提高maxRequests后重载；自动已暂停，资源保持不变
+[17:00:12 INFO]: [VillageCommons] VC_PAUSED attempted_round=3 source=AI_ERROR ai_profile=normal requests=0 latency_ms=0
+[17:01:33 INFO]: LuBinXun_ issued server command: /village reload
+[17:01:40 INFO]: LuBinXun_ issued server command: /village auto on
+[17:01:59 INFO]: [VillageCommons] 第3回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:01:59 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2860
+[17:02:20 INFO]: [VillageCommons] 第4回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:02:20 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=4318
+[17:02:37 INFO]: [VillageCommons] 第5回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:02:37 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2456
+[17:02:57 INFO]: [VillageCommons] 第6回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:02:57 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=4457
+[17:03:16 INFO]: [VillageCommons] 第7回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:03:16 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2796
+[17:03:33 INFO]: [VillageCommons] 第8回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:03:33 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2746
+[17:03:52 INFO]: [VillageCommons] 第9回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:03:52 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2422
+[17:04:11 INFO]: [VillageCommons] 第10回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:04:11 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2886
+[17:04:28 INFO]: [VillageCommons] 第11回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:04:28 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2843
+[17:04:51 INFO]: [VillageCommons] 第12回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:04:51 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=6033
+[17:05:07 INFO]: [VillageCommons] 第13回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:05:07 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=1743
+[17:05:26 INFO]: [VillageCommons] 第14回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:05:26 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3295
+[17:05:45 INFO]: [VillageCommons] 第15回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:05:45 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2900
+[17:06:03 INFO]: [VillageCommons] 第16回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:06:03 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3264
+[17:06:23 INFO]: [VillageCommons] 第17回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:06:23 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3581
+[17:06:43 INFO]: [VillageCommons] 第18回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:06:43 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3150
+[17:07:03 INFO]: [VillageCommons] 第19回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:07:03 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3535
+[17:07:22 INFO]: [VillageCommons] 第20回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:07:22 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3403
+[17:07:42 INFO]: [VillageCommons] 第21回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:07:42 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2688
+[17:08:01 INFO]: [VillageCommons] 第22回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:08:01 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3321
+[17:08:20 INFO]: [VillageCommons] 第23回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:08:20 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3355
+[17:08:40 INFO]: [VillageCommons] 第24回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:08:40 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3933
+[17:08:58 INFO]: [VillageCommons] 第25回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:08:58 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3042
+[17:09:16 INFO]: [VillageCommons] 第26回合 · 普通AI · AI · 收割4 · 恢复4 · 麦田48/48 · 缺粮0人
+[17:09:16 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3559
+[17:09:37 INFO]: [VillageCommons] 第27回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:09:37 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=4621
+[17:09:53 INFO]: [VillageCommons] 第28回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:09:53 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=1584
+[17:10:14 INFO]: [VillageCommons] 第29回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:10:14 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=5210
+[17:10:32 INFO]: [VillageCommons] 第30回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:10:32 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2826
+[17:10:50 INFO]: [VillageCommons] 第31回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:10:50 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3131
+[17:11:10 INFO]: [VillageCommons] 第32回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:11:10 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3512
+[17:11:28 INFO]: [VillageCommons] 第33回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:11:28 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3245
+[17:11:46 INFO]: [VillageCommons] 第34回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:11:46 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3050
+[17:12:06 INFO]: [VillageCommons] 第35回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:12:06 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=4479
+[17:12:23 INFO]: [VillageCommons] 第36回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:12:23 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2622
+[17:12:41 INFO]: [VillageCommons] 第37回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:12:41 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2536
+[17:13:00 INFO]: [VillageCommons] 第38回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:13:00 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3919
+[17:13:20 INFO]: [VillageCommons] 第39回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:13:20 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2968
+[17:13:40 INFO]: [VillageCommons] 第40回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:13:40 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3314
+[17:14:00 INFO]: [VillageCommons] 第41回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:14:00 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3507
+[17:14:18 INFO]: [VillageCommons] 第42回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:14:18 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3068
+[17:14:38 INFO]: [VillageCommons] 第43回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:14:38 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3832
+[17:14:57 INFO]: [VillageCommons] 第44回合 · 普通AI · AI · 收割6 · 恢复6 · 麦田48/48 · 缺粮0人
+[17:14:57 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3159
+[17:15:13 INFO]: [VillageCommons] 第45回合 · 普通AI · AI · 收割4 · 恢复4 · 麦田48/48 · 缺粮0人
+[17:15:13 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=1544
+[17:15:31 INFO]: [VillageCommons] 第46回合 · 普通AI · AI · 收割4 · 恢复4 · 麦田48/48 · 缺粮0人
+[17:15:31 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3461
+[17:15:48 INFO]: [VillageCommons] 第47回合 · 普通AI · AI · 收割4 · 恢复4 · 麦田48/48 · 缺粮0人
+[17:15:48 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=2928
+[17:16:07 INFO]: [VillageCommons] 第48回合 · 普通AI · AI · 收割5 · 恢复5 · 麦田48/48 · 缺粮0人
+[17:16:07 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=3088
+[17:16:27 INFO]: [VillageCommons] 第49回合 · 普通AI · AI · 收割5 · 恢复5 · 麦田48/48 · 缺粮0人
+[17:16:27 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=4796
+[17:16:46 INFO]: [VillageCommons] 第50回合 · 普通AI · AI · 收割5 · 恢复5 · 麦田48/48 · 缺粮0人
+[17:16:46 INFO]: [VillageCommons] VC_ROUND source=AI ai_profile=normal requests=1 parameters=optimized parameters_accepted=true latency_ms=4906

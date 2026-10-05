@@ -1,0 +1,5 @@
+world-name: commons_demo
+allow-local-mayor: true
+# 每个回合完成后到下一回合的间隔；有人在村内才自动推进。
+auto-interval-seconds: 5
+animations-enabled: true

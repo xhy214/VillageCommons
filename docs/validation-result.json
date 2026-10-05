@@ -1,0 +1,40 @@
+{
+  "version": "0.3.1",
+  "unit_tests": [
+    {
+      "suite": "io.github.xhy214.village.ai.ApiClientTest",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "io.github.xhy214.village.core.CommonsEngineTest",
+      "tests": 12,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "io.github.xhy214.village.core.DecisionParserTest",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "io.github.xhy214.village.data.StateStoreTest",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0
+    }
+  ],
+  "total_unit_tests": 33,
+  "integration_checks": 17,
+  "real_model_tested": false,
+  "plugin_sha256": "9346970529c9bc332f1edbadd5474aa11836f3ed9a44cf646444782ae4ce2d88",
+  "java_tested": "Microsoft OpenJDK 21.0.12.1+1",
+  "unit_test_runner": "JUnit Platform Console Standalone 1.12.2",
+  "paper": "1.21.11 build132",
+  "windows_start_scripts_changed": true,
+  "powershell_parse_checks_inherited_from": "0.3.0",
+  "windows_start_script_change": "Only two obsolete rule-baseline messages updated to match API-pause behavior; no launcher logic changed.",
+  "powershell_scripts_reparsed_for_github_package": false
+}

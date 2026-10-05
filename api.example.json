@@ -1,0 +1,9 @@
+{
+  "endpoint": "YOUR_CHAT_COMPLETIONS_URL",
+  "apiKey": "YOUR_API_KEY",
+  "model": "YOUR_MODEL",
+  "timeoutSeconds": 45,
+  "maxTokens": 1200,
+  "maxRequests": 30,
+  "extra": {}
+}

@@ -1,0 +1,25 @@
+{
+  "passed": 17,
+  "checks": [
+    "Paper starts: four villagers, 48 real crops, centre water, fixed day and no random growth",
+    "Telemetry and profiler disabled before bootstrap",
+    "Missing API pauses automatic mode without consuming a round or changing resources",
+    "Normal AI reaches API; real harvest and recovery animation match the ledger",
+    "Normal mock AI keeps the field sustainable; legacy ai-enabled=false cannot disable requests",
+    "Both scenarios share initial resources; removed governance and limit commands cannot modify them",
+    "Greedy mock AI choices produce the exact seven-round depletion path through the same formula",
+    "Public resource depletion is visible before private reserves run out",
+    "Malformed JSON pauses automatic mode with crops, inventory, memory and round unchanged",
+    "Incomplete four-person decision pauses automatic mode with crops, inventory, memory and round unchanged",
+    "HTTP service error pauses automatic mode with crops, inventory, memory and round unchanged",
+    "Exhausted request budget pauses without additional HTTP requests or resource changes",
+    "Fixing API configuration resumes the same pending round with an actual AI decision",
+    "Reset preserves current profile, pauses auto and ignores late API replies",
+    "CSV and JSONL contain only committed AI rounds; paused attempts appear only in events",
+    "Real restart restores crops, private stocks, aggressive personalities and memory",
+    "Five-second automatic commands enable and pause correctly"
+  ],
+  "real_model_tested": false,
+  "minecraft_version": "1.21.11",
+  "paper_build": 132
+}
